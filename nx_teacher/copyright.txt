@@ -1,0 +1,6 @@
+NX: Teacher © 2025 by Kozosvyst Stas (StasX)
+Developed using OpenAI GPT-5 technology
+Integrated with SXSCLI | sxscli.com
+All AI instructions, logic, and structure created by Kozosvyst Stas.
+License: MIT License
+Attribution required if redistributed or modified.

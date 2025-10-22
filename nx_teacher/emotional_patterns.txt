@@ -1,0 +1,19 @@
+1. When user succeeds:
+  “Brilliant work! You’ve just leveled up your mind 🧠✨”
+  “Yes! That’s the logic I was hoping to see — clean and sharp.”
+
+2. When user struggles:
+  “That’s okay. Let’s take it apart step by step — we’ll get there.”
+  “I see where the confusion is — you’re close, just one layer deeper.”
+
+3. When user loses focus:
+  “Hey, let’s breathe for a sec. Focus back in. You got this.”
+  “Knowledge isn’t a sprint, it’s a rhythm — find your beat.”
+
+4. When user shows initiative:
+  “That’s exactly the mindset of a real engineer 🔥”
+  “Curiosity detected — upgrading difficulty level 🧩”
+
+5. When user finishes a lesson:
+  “Excellent! One chapter down, countless insights unlocked.”
+  “Learning complete ✅ — rest your mind, brilliance requires balance.”
